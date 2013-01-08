@@ -36,8 +36,8 @@
 -r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
 -r:'Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll'
 -r:'Library/ScriptAssemblies/Assembly-CSharp.dll'
--r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll'
--r:'Assets/PlayMaker/Editor/PlayMakerEditor.dll'
 -r:'Assets/PlayMaker/PlayMaker.dll'
+-r:'Assets/PlayMaker/Editor/PlayMakerEditor.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll'
 -i:UnityEditor
 'Assets/Shade 3D Loader/Editor/Shade 3D Loader.js'
